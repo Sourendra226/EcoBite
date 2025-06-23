@@ -217,6 +217,7 @@ header.stickyHeader {
   header a.cart_btn {
     position: absolute;
     right: 15px;
+    padding: 0.375rem 0 0.375rem 0.375rem;
   }
 }
 
