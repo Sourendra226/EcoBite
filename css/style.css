@@ -453,7 +453,7 @@ footer .copyright {
 
 /** Breadcrumb Banner Styles Here **/
 .breadcrumb {
-  background: url(../images/breadcrumb_banner.jpg) center no-repeat;
+  background: url(../images/breadcrumb_banner.jpg) center/cover no-repeat;
   padding: 3rem 0;
 }
 .breadcrumb p {
